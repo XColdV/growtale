@@ -1,5 +1,4 @@
 # growtale
 Growtale CPP 
-This is what you want right? @timetopia @aziz. 
 
-Enjoy ;) btw dont forget to credit me 
+Made by me [this cpp already leaked by me before, and then i make it private]
