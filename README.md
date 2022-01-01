@@ -11,5 +11,3 @@ So thats the story of why i leaked this CPP. And thank you for reading it lol.
 You can modify, remake or use it without any credits.
 Have fun editing it!
 Also if you want to use this CPP, make sure to remove [+] if you're annoyed with one.
-
-This cpp is made by Ipadtopia or me.
